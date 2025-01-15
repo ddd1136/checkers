@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242844112346",
+    "project_id": "checkers-8d2bb",
+    "storage_bucket": "checkers-8d2bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242844112346:android:06cbae3776e752f4efdce3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.EnglishDraughts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEqYxoKB6fp5ZExOoUPFJT3Qu7_ltLX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
